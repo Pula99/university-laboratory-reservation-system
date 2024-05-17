@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7a8d270-e169-40ad-8ca1-8fd04d21a421" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Database.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MultiStepForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MultiStepForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReservationPages/Form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReservationPages/SingleForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Services/FormService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Services/FormService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StepForm/Booking.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StepForm/Booking.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StepForm/ChemicalReservation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StepForm/ChemicalReservation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StepForm/LabEquipmentReservation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StepForm/LabEquipmentReservation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StepForm/ReservationPurpose.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StepForm/ReservationPurpose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StepForm/Review.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/StepForm/Review.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2cDWb4pmmSkecgxZBhS67ItoXjD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Kusal/3rd Y/XXX/LabRes"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7a8d270-e169-40ad-8ca1-8fd04d21a421" name="Changes" comment="" />
+      <created>1707646698909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707646698909</updated>
+    </task>
+    <servers />
+  </component>
+</project>

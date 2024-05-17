@@ -1,0 +1,54 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[warn] No sbt.version set in project/build.properties, base directory: D:\Kusal\3rd Y\XXX\project
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.9.4 (Oracle Corporation Java 21.0.1)
+[debug] Load.defaultLoad until apply took 130.9608ms
+[debug]     Load.loadUnit: plugins took 126.1522ms
+[debug]     Load.loadUnit: defsScala took 0.3112ms
+[debug] [Loading] Scanning directory D:\Kusal\3rd Y\XXX\project
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in D:\Kusal\3rd Y\XXX\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 33.3294 ms
+[debug]         Load.resolveProject(project) took 72.0776ms
+[debug]       Load.loadTransitive: finalizeProject(Project(id project, base: D:\Kusal\3rd Y\XXX\project, plugins: List(<none>))) took 140.8126ms
+[debug] [Loading] Done in D:\Kusal\3rd Y\XXX\project, returning: (project)
+[debug]     Load.loadUnit: loadedProjectsRaw took 183.8347ms
+[debug]     Load.loadUnit: cleanEvalClasses took 0.8264ms
+[debug]   Load.loadUnit(file:/D:/Kusal/3rd%20Y/XXX/project/, ...) took 329.2861ms
+[debug] Load.apply: load took 652.4326ms
+[debug] Load.apply: resolveProjects took 9.1236ms
+[debug] Load.apply: finalTransforms took 71.0014ms
+[debug] Load.apply: config.delegates took 9.2523ms
+[debug] Load.apply: Def.make(settings)... took 597.2898ms
+[debug] Load.apply: structureIndex took 133.1414ms
+[debug] Load.apply: mkStreams took 4.4414ms
+[info] set current project to project (in build file:/D:/Kusal/3rd%20Y/XXX/project/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(notifyUsersAboutShell, None, None)
+[debug] > Exec(iflast shell, None, None)
+[debug] > Exec(shell, None, None)
+[info] sbt server started at local:sbt-server-0a9b7d9bf82ccb9735a8
+[debug] Writing bsp connection file
+[info] started sbt server

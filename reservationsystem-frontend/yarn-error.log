@@ -1,0 +1,79 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\CHAMA COMPUTERS\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\xampp\php;C:\Program Files\nodejs;C:\Program Files\dotnet\;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Java\apache-maven-3.9.5\bin;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\CHAMA COMPUTERS\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\CHAMA COMPUTERS\AppData\Local\Programs\Python\Python310\;C:\Users\CHAMA COMPUTERS\AppData\Local\Programs\Python\Launcher\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\CHAMA COMPUTERS\AppData\Local\Microsoft\WindowsApps;C:\Users\CHAMA COMPUTERS\AppData\Local\GitHubDesktop\bin;C:\Users\CHAMA COMPUTERS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\CHAMA COMPUTERS\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.4\bin;;C:\Program Files\Java\apache-maven-3.9.5\bin;
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, copyfile 'C:\Users\CHAMA COMPUTERS\AppData\Local\Yarn\Cache\v6\npm-@mui-material-5.15.3-b77f1ac1275e5bf13b735e8224bdd301aab918c4-integrity\node_modules\@mui\material\TextField\package.json' -> 'D:\Kusal\3rd Y\XXX\project\node_modules\@mui\material\TextField\package.json'
+
+npm manifest: 
+  {
+    "name": "project",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "@emotion/react": "^11.11.1",
+      "@emotion/styled": "^11.11.0",
+      "@material-ui/core": "^4.12.4",
+      "@mui/icons-material": "^5.14.3",
+      "@mui/lab": "^5.0.0-alpha.140",
+      "@mui/material": "^5.14.4",
+      "@testing-library/jest-dom": "^5.17.0",
+      "@testing-library/react": "^13.4.0",
+      "@testing-library/user-event": "^13.5.0",
+      "formik": "^2.4.3",
+      "gsap": "^3.12.2",
+      "material-table": "^2.0.5",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-hooks-helper": "^1.6.0",
+      "react-icons": "^4.10.1",
+      "react-router-dom": "^6.15.0",
+      "react-scripts": "5.0.1",
+      "web-vitals": "^2.1.4",
+      "yup": "^1.2.0"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ]
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    },
+    "devDependencies": {
+      "typescript": "^5.1.6"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
